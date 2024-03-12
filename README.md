@@ -7,6 +7,6 @@ A standout feature of the game is the ability for players to design their own ma
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img src="assets/menu.png" width="400"> |  <img src="assets/gameView1.png" width="400"> |
-|<img src="assets/gameView2.png" width="400" align="left"> |  <img src="assets/editMap.png" width="400" align="right"> |
+|<img src="assets/menu.png" width="500"> |  <img src="assets/gameView1.png" width="500"> |
+|<img src="assets/gameView2.png" width="500" align="left"> |  <img src="assets/editMap.png" width="500" align="right"> |
 
